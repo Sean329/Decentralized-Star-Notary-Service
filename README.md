@@ -1,8 +1,17 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+
+## ERC-721 Token Name: Star Coin
+## ERC-721 Token Symbol: SCN
+## openzeppelin-solidity@2.3
+## Truffle v5.4.29 (core: 5.4.29); Solidity v0.5.16 (solc-js)
+## Token Address on the Rinkeby Network: 0xb623f941ce872708ff089a3d64b6d3b5468f5d3e
+
+
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
+
 
 
 
